@@ -1,10 +1,8 @@
 ### Welcome
 
 - :office: I am the CTO and Co-Founder of [Hobsido](https://hobsido.com/), a prop-tech startup based in Greece. You can read about us in [startupper](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/) magazine.
-- :office: I also work as a Data Science Analyst in the Applied Intelligence Department of Accenture.
 -  :rocket: Won Gold in the NASA Space Apps Hackathon 2022
 - 🔭 My domains of expertise are software engineering, data engineering and data science.
-- :man_student: My Bachelor's degree is in Software Engineering and Data Science from the Department of Management Science and Technology | Athens University of Economics and Business
 - :email: Where to find me: errikos.tzimas@gmail.com
 
 
