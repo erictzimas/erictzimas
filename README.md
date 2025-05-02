@@ -1,9 +1,9 @@
 ### Welcome
 
-- :office: I am the CTO and Co-Founder of [Hobsido](https://hobsido.com/), a prop-tech startup based in Greece. You can read about us in [startupper](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/) magazine.
--  :rocket: Won Gold in the NASA Space Apps Hackathon 2022
-- 🔭 My domains of expertise are software engineering, data engineering and data science.
-- :email: Where to find me: errikos.tzimas@gmail.com
+-  I am the CTO and Co-Founder of [Hobsido](https://hobsido.com/), a prop-tech startup based in Greece. You can read about us in [startupper](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/) magazine.
+-   Won Gold in the NASA Space Apps Hackathon 2022
+-  My domains of expertise are software engineering, data engineering and data science.
+-  Where to find me: errikos.tzimas@gmail.com
 
 
 <!--
